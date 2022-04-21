@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-apiKey="125887Ufb3f76d9221ab3d90d155c9d270a5c11" #API KEY SMSHUB
+apiKey="API TARUH DI SINI" #API KEY SMSHUB
 
 	read -p 'Masukan No Order:' order
 
