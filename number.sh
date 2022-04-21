@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 apiKey="API TARUH DI SINI" #API KEY SMSHUB
-serviceType="aj" #untuk OneAset
+serviceType="aj" # aj untuk OneAset
 
 linkGetBalance="https://smshub.org/stubs/handler_api.php?api_key="$apiKey"&action=getBalance"
 linkGetNumber="https://smshub.org/stubs/handler_api.php?api_key="$apiKey"&action=getNumber&service="$serviceType"&operator=&country=6"
